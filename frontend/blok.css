@@ -1,0 +1,14 @@
+.nav{
+    background-color: aqua;
+    width: 30px;
+    height: 15px;
+    position: relative;
+    float: left;
+}
+
+.subtitle{
+    padding-left: 10px;
+    size: 20px;
+    font-size: 20px;
+    background-color: aqua;
+}
